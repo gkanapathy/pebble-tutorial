@@ -1,4 +1,4 @@
-# pebble-tutorial
+# Pebbles platform tutorial and examples
 
 ## Introduction
 
